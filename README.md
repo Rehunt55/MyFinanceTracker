@@ -50,6 +50,6 @@ Listeleme ve Detay Ekranı: Sahip olunan varlıkların listelendiği, kar/zarar 
 Uygulamanın amacı, ekran tanıtımları ve veritabanı işlemlerinin (ekleme/silme) emülatör üzerinde gösterildiği sunum videosu: 
 
 
-🔗 [BURAYA YOUTUBE LİNKİNİ YAPIŞTIR]
+🔗(https://youtu.be/6hsR_d16Ryk)
 
 EK BİLGİ= Daha fazla kripto varlık hisse senedi ve diğerleri eklencek  kullanıcı isteğiyle veri çekme işlemi yapmaya çalışıyorum sadece kullanıcı ne istiyosa o gözükce umarım yaparım  geliştirilme aşamasındadır.
